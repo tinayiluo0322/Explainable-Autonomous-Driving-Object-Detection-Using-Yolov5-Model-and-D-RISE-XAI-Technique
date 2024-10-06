@@ -12,16 +12,20 @@ By combining YOLOv5’s detection capabilities with the interpretability offered
 
 #### Example 1
 Original Image 007480
+
 ![007480_original](https://github.com/user-attachments/assets/c2ef44e8-000b-451e-b12e-58fba3c2888c)
 
 Object Detection on Image 007480
+
 ![007480_detection](https://github.com/user-attachments/assets/0e4134c1-e4e5-4458-bbac-79e460afa4b6)
 
 #### Example 2
 Original Image 000015
+
 ![000015_original](https://github.com/user-attachments/assets/2eee4220-caed-4993-97de-a6b15b28895a)
 
 Object Detection on Image 000015
+
 ![000015_detection](https://github.com/user-attachments/assets/45fed558-92cf-422f-8752-75885eec9594)
 
 ### D-RISE for Explainability
@@ -32,14 +36,18 @@ Here we implement this technique to help explain the decisions made by YOLOv5, a
 
 #### Example 1
 Sample explainability on Image 007480
+
 <img width="593" alt="Screen Shot 2024-10-06 at 5 53 38 PM" src="https://github.com/user-attachments/assets/984a9eba-5e48-4e63-bec4-cd0bb2276ffa">
 
 Sample explainability on Resized Image 007480
+
 <img width="491" alt="Screen Shot 2024-10-06 at 5 52 52 PM" src="https://github.com/user-attachments/assets/75a434ed-bbc5-433f-9800-51912ad4d5d6">
 
 #### Example 2
 Sample explainability on Image 000015
+
 <img width="667" alt="Screen Shot 2024-10-06 at 5 50 24 PM" src="https://github.com/user-attachments/assets/54aa1d82-ba61-4d55-8983-8704d92714d8">
 
 Sample explainability on Resized Image 000015
+
 <img width="1071" alt="Screen Shot 2024-10-06 at 5 46 22 PM" src="https://github.com/user-attachments/assets/24131edc-331d-4241-a012-3ecc5f44f9ba">
